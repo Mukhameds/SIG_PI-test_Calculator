@@ -48,6 +48,15 @@ The phase ratio `φ = L / D` is passed to a comparison block, where **DigitBlock
 - **Signal Dictionary**  
   Maps phase to digit via block activation. The system "senses" the number by counting activated units (analogous to lit elements or Braille-like codes).
 
+
+---
+
+### 🖼️ STB-Based Diagram
+
+Below is the core signal-phase diagram implementing the π extraction logic:
+
+![STB_Pi_Diagram](./diagrame/STB_Pi_diagrame%20(12)1.svg)
+
 ---
 
 ## 📂 Project Structure
